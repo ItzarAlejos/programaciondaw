@@ -17,14 +17,14 @@ public class Ej3_34 {
         
         Scanner tuberia = new Scanner(System.in);
         
-        int contador=1, calificacion, valorMin=0, suma=0;
+        int contador=1, calificacion, valorMin=10, suma=0;
         double media;
         
         while(contador <= MAXALUMNOS)
         {
             System.out.print("Nota de el " + contador + "º Alumno/a: ");
             calificacion = tuberia.nextInt(); 
-            if(calificacion > valorMin)
+            if(calificacion < valorMin)
             {
                 valorMin = calificacion;
             }
