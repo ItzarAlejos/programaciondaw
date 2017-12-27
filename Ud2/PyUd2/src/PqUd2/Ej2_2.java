@@ -19,7 +19,7 @@ public class Ej2_2 {
         System.out.print("Itzar ");
         System.out.print("Alejos ");
         System.out.println("Gonzalez");
-        System.out.println("Sala del temps i el espai");
+        System.out.println("Sala del temps i del espai");
     }
     
 }
