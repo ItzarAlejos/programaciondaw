@@ -16,7 +16,7 @@ public class Ej2_1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Itzar Alejos Gonzalez" + "\nXilxes");
+        System.out.println("Itzar Alejos Gonzalez" + "\nSala del temps i el espai");
     }
     
 }
